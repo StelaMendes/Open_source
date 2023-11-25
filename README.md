@@ -12,8 +12,6 @@
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor)]()
 
-----
-
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor)
 
